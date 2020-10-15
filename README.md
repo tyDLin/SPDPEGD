@@ -7,4 +7,4 @@ We consider a wide range of regularized stochastic minimization problems with tw
 Implementations in MATLAB are provided, including fused logistic regression and graph-guided regularized logistic regression.
 
 # References
-T. Lin, L. Qiao, T. Zhang, J. Feng and B. Zhang. Stochastic Primal-Dual Proximal ExtraGradient Descent for Compositely Regularized Optimization. Neurocomputing, 273: 516-525, 2018
+Stochastic Primal-Dual Proximal ExtraGradient Descent for Compositely Regularized Optimization. T. Lin, L. Qiao, T. Zhang, J. Feng and B. Zhang. Neurocomputing, 273: 516-525, 2018
